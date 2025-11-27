@@ -1,6 +1,5 @@
-华为
-
 智能汽车
+智慧车
 自动驾驶
 
 AI+金融
@@ -9,48 +8,8 @@ AI+医疗
 
 AI+教育
 
-字节
-bytedance
-
-特斯拉
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
 
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-
-科技
